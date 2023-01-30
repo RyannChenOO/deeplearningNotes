@@ -1,6 +1,14 @@
+
+
+# reference resources
+
+
+
 https://datawhalechina.github.io/thorough-pytorch/#
 
 https://www.bilibili.com/video/BV1hE411t7RN?p=3&vd_source=0ce9b534526c2bd95e66a34d0db84a25
+
+
 
 《pytorch 深度学习实战 (伊莱史蒂文斯) (z-lib.org)》
 
